@@ -31,3 +31,4 @@ Certain details of the communication protocols implemented by the MDI Library, e
 The library-based communication protocol was developed in response to discussions with the <a href="https://gitlab.com/exaalt">EXAALT</a> team.
 The interface, error handling, data types, and numerous other elements of the MDI Library are modelled after the <a href="https://www.mpi-forum.org/">MPI Standard</a>.
 A distribution of the MDI Library for Python is provided by <a href="https://conda-forge.org/">Conda Forge</a>.
+.
